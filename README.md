@@ -1,7 +1,7 @@
 # Code_Alpha_Emotion_Recognition_from_Speech
 The Emotion of Speech from Audio project leverages the powerful tools provided by Librosa to analyze and understand the emotional content embedded within spoken audio. Using advanced signal processing techniques, this project extracts key features from audio data to classify and interpret various emotional states such as happiness, sadness, anger, and more. By integrating Librosa's functionality, this project opens doors for applications in sentiment analysis, speech recognition, and emotional understanding in diverse fields ranging from psychology to human-computer interaction.
 
-![](https://github.com/BahramJannesar/DiamondsMachineLearning/blob/master/Image/GuideToDiamonds_LP_Hero_Desktop_v2-2.jpeg)
+![](https://github.com/Tilakakasapu/Code_Alpha_Emotion_Recognition_from_Speech/blob/main/Img/1_ILD0O04u2ofXrqC8h34oOg.png)
 
 ## Dataset:
 

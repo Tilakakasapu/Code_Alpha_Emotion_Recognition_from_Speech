@@ -57,6 +57,8 @@ The audio files in this dataset are named in such a way that the prefix letters 
 
 ## Audio Processing
 
+![](https://github.com/Tilakakasapu/Code_Alpha_Emotion_Recognition_from_Speech/blob/main/Img/1_Zx9QAMPzxhama9O4q9xWXg.jpg)
+
 **Librosa:**
 
 Utilize Librosa to load audio files, providing a foundation for subsequent processing steps.
